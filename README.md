@@ -1,4 +1,4 @@
-# LiveScore Backend API
+# LiveScore
 
 ## Features
 - REST API
